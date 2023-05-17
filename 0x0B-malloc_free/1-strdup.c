@@ -4,7 +4,7 @@
 
 /**
  * _strdup - Entry point
- * @str: input 
+ * @str: input
  * Return: a pointer to the duplicated string or NULL
  */
 char *_strdup(char *str)
