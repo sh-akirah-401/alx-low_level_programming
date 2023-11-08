@@ -8,7 +8,6 @@
  *
  * Return: Always EXIT_SUCCESS.
  */
-
 int main(void)
 {
 	char *s;

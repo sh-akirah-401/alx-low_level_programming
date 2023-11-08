@@ -3,9 +3,9 @@
 /**
  * hash_table_delete - function that deletes a hash table.
  * @ht: pointer to hash table to be deleted.
+ *
  * Return: No return.
  */
-
 void hash_table_delete(hash_table_t *ht)
 {
 	hash_node_t *current = NULL;
